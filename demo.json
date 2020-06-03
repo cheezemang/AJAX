@@ -1,11 +1,8 @@
 [
   {
-    "name" : "Cheezy",
-    "species" : "human",
-    "games" : {
-      "likes" : ["terraria", "doom"],
-      "dislkies" : ["fortnite", "dota"]
-    }
+    "name" : "Jane Doe",
+    "age" : "27",
+    "bio" : "Jane doe is a great person because X, Y, Z. They are so cool that i dont even know what i want to sya me awe must not what keep supportin geach other spport all thank you so much wholy crap he is makign bank right now what the fuck."
   },
   {
     "name" : "Joe",
