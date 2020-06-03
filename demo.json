@@ -7,10 +7,8 @@
   },
   {
     "name" : "Joe",
-    "species" : "human",
-    "games" : {
-      "likes" : ["terraria", "darksouls"],
-      "dislkies" : ["osrs", "dota"]
-    }
+    "age" : "23",
+    "bio" : "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/888/cached.offlinehbpl.h",
+    "img" : "https://image.shutterstock.com/image-photo/pretty-smiling-joyfully-female-fair-260nw-776697943.jpg"
   }
 ]
